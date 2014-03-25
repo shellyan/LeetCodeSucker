@@ -1,0 +1,4 @@
+LeetCodeSucker
+==============
+
+LeetCode in Python
